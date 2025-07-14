@@ -100,4 +100,3 @@ Link: Research Article DOI
 Chiper Roberto-Marian
 Cojan Alexia Ilaria
 Diaconescu-Armasescu Andrei-Mihai
-
